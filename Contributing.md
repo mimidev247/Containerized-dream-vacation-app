@@ -22,5 +22,5 @@
 
 1. Ensure your code adheres to our style guide.
 2. Update the README.md with details of changes if applicable.
-3. Increase the version numbers in any examples files and the README.md to the new version that this PR would represent.
-4. You may merge the Pull Request once you have the sign-off of two other developers.
+3. You may merge the Pull Request once you have the sign-off of two other developers.
+4. Increase the version numbers in any examples files and the README.md to the new version that this PR would represent.
