@@ -11,7 +11,7 @@ RUN npm install
 COPY . .
 
 # ADD THIS LINE RIGHT HERE 👇
-ENV NODE_OPTIONS=--openssl-legacy-provider
+ENV NODE_OPTIONS=--openssl-legacy-provider 
 
 # Build the app for production (generates the build or dist folder)
 RUN npm run build
